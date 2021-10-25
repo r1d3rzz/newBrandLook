@@ -1,0 +1,23 @@
+.headerOrder{
+	background-color: whitesmoke;
+	padding: 15px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	top: 0;
+	position: sticky;
+}
+.orderTable{
+	margin: 0 auto;
+	width: 950px;
+	margin-top: 50px;
+	box-shadow: 20px 30px 30px black;
+	border-radius: 10px;
+}
+.orderTable input{
+	margin: 15px 0;
+}
+.tableName{
+	text-align: center;
+	margin: 0 200px;
+}
